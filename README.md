@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Figma Challenge
+
+[Demo Link](https://figma-challange.vercel.app)
+
+## Used Technologies
+
+- [React](https://reactjs.org)
+- [Ant Design](https://ant.design)
+- [Tailwindcss](https://tailwindcss.com)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
